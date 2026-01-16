@@ -1,0 +1,1 @@
+This repository provides all the materials needed to recreate our research on craft-based rituals as micro-breaks. You’ll find two main folders: one for macramé and another for Hexa-forma. Each contains the resources, instructions, and documentation to replicate our study. Feel free to reach out with questions! Manu.fortems@student.uantwerpen.be
